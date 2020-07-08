@@ -23,7 +23,7 @@
 
 .main {
   background-color: #EEEEEE;
-  height: 4000px;
+  height: 5000px;
   padding-top: 15px;
 }
 .theme p{
@@ -91,6 +91,6 @@
   height: 100%;
 }
 .footer{
-  padding-top: 50px;
-  height: 200px;
+  padding-top: 200px;
+  height: 800px;
 }
