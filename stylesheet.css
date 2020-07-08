@@ -1,0 +1,92 @@
+.header {
+  color: #fff;
+  height: 500px;
+}
+
+.header p {
+  font-family: serif;
+  color: #000;
+  font-size: 20px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 1000px;
+  text-align: center;
+}
+
+.header-list {
+  float: right;
+  font-size: 20px;
+}
+
+.main {
+  background-color: #EEEEEE;
+  height: 3000px;
+  padding-top: 15px;
+}
+.main p{
+  font-family: serif;
+  text-align: center;
+}
+
+.logo1 {
+  padding: 15px;
+}
+
+
+
+.video1 {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 0;
+  height: 0;
+  overflow: hidden;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.video1 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video2 {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 0;
+  height: 0;
+  overflow: hidden;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.video2 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video3 {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 0;
+  height: 0;
+  overflow: hidden;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.video3 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
